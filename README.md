@@ -7,7 +7,6 @@
 
 <div align="center" justify-items="space-between">
   <img width="34%" src="https://github-readme-stats.vercel.app/api?username=felpsjangelavicin&include_all_commits=true&count_private=true&bg_color=00000000&title_color=86cecb&text_color=bec8d1&icon_color=12885"/> 
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsjangelavicin&layout=compact&bg_color=00000000&title_color=86cecb&text_color=bec8d1&icon_color=12885"/>
 </div><br/>
 
 <img src="https://i.imgur.com/LI4Ex3d.jpg" alt="Miku"/>
